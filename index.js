@@ -9,7 +9,7 @@ const breakfastBurrito = {name: "Breakfast Burrito", price: 16, category:"Breakf
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1a: Make a function that builds objects🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 Add to the function createMenuItems below so it will create objects following the same format found above for latte and breakfastBurrito (name, price, category).  
 The function should:
-  1. Receive values for the object that will be created as parameters asdfasf
+  1. Receive values for the object that will be created as parameters 
   2. Create and return an object using the received values 
   
   Example createMenuItem('tacos', 8, 'Lunch') should return {name: 'tacos', price: 8, category: 'Lunch'}
